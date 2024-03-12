@@ -1,6 +1,6 @@
-module golang-crud
+module github.com/lipzpoom
 
-go 1.21.3
+go 1.22.1
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
